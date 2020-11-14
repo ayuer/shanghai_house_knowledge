@@ -31,6 +31,7 @@
 
 ## 1.2 人口目标
 “上海2035”要求，缓解人口快速增长与资源环境紧约束之间的矛盾，严格控制常住人口规模，至2035年常住人口控制在2500万人左右。而在2015年，上海常住人口规模为2415万人。
+
 ![alt](https://mmbiz.qpic.cn/mmbiz_jpg/QvZej5zN2tvy6Ezok0hGgAib7MShGB8uTzxial0ZBReafeJ11KQQYg5GBogzU8wnxQnlg5zZFEvZnnFiarAuRrhug/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 1.3 发展规划
@@ -76,6 +77,7 @@
 
 ## 1.7 高架&城市快速路现状与规划
 ![img](https://pic2.zhimg.com/80/v2-8ec225d4270462d783fbae4062c1e0b9_720w.jpg)
+
 图片来源知乎: [上海市城市总体规划（2017-2035）-高清图集](https://zhuanlan.zhihu.com/p/32632481)
 
 ## 1.8 人才引进落户政策
@@ -125,11 +127,6 @@
 
 ## 2.3 Location! Location! Location! 位置地段
 ### 2.3.1 上海市行政区划
-##### 中心城区
-![alt](https://www.shsmi.cn/zxfwchy/images/20180706-1.jpg)
-图片来源上海测绘院[www.shsmi.cn](www.shsmi.cn)
-
-##### 全城区划
 ![alt](https://bkimg.cdn.bcebos.com/pic/8b82b9014a90f603e93fc88b3312b31bb151ed6b?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5)
 图片来源百度百科 [https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92/7426389?fr=aladdin](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92/7426389?fr=aladdin)
 
@@ -245,6 +242,7 @@
 
 ### 2.8.2 东边套，西边套，中间套
 ![img](https://pic2.zhimg.com/80/v2-e566bf1b0fe5c65cbf37cd27438fb811_720w.jpg)
+
 [选房是边套好，还是中间套好？](https://zhuanlan.zhihu.com/p/55104445)
 
 ### 2.8.3 公摊面积

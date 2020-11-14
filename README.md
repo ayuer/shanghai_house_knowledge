@@ -169,7 +169,7 @@
 ## 2.3 <a name="位置地段">Location! Location! Location! 位置地段</a>
 ### 2.3.1 <a name="上海市行政区划">上海市行政区划</a>
 ![alt](https://bkimg.cdn.bcebos.com/pic/8b82b9014a90f603e93fc88b3312b31bb151ed6b?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5)
-图片来源百度百科 [https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92/7426389?fr=aladdin](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92/7426389?fr=aladdin)
+图片来源 [百度百科](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92/7426389?fr=aladdin)
 
 ### 2.3.2 <a name="各区板块">房产板块与天花板价</a>
 ##### 黄埔区各板块天花板价
@@ -226,6 +226,7 @@
 ### 2.5.1 <a name="2020前十月成交趋势">2020前十月成交趋势</a>
 ![img](https://mmbiz.qpic.cn/mmbiz_png/0ib1FwT4iaAc5yrlaMXEN3Nt0qkItibcibiccIucribE4cmJtH22VIVLIaZfPuxh3hOWcTaIibicm9xWr2DemicwUYLpTsw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 ![img](https://mmbiz.qpic.cn/mmbiz_png/0ib1FwT4iaAc5yrlaMXEN3Nt0qkItibcibiccR66Wd2zpOpvW2nUHer9fYPhvk4IFnlOL3O9LdrE7gEjibCiaNib5kKkHA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 图片来源于： [2020年前十月上海市二手房交易情况汇总](https://mp.weixin.qq.com/s/HSFnBogHMkuYq3gGrO3Mzw)
 
 ### 2.5.2 <a name="上海各区10月份二手房热门小区成交大全">上海各区10月份二手房热门小区成交大全</a>
@@ -330,6 +331,7 @@ Q&A：
 [房贷计算器 (2020)](http://fangd.sinaapp.com/)
 
 ![img](http://img-other.jiwu.com/news/2020/03/08/163231353107.jpg/newsx)
+
 图片来源：[吉屋网](http://ganzhou.jiwu.com/news/3941214.html)
 
 ## 3.4 <a name="交易流程与税费">交易流程与税费</a>

@@ -7,8 +7,22 @@
 -- 此处尽量不展示个人观点和看法，如果有观点和看法请还请自己思考和判断其适用性和准确性
 ```
 
-# Part 1: 宏观政策与分析
-## 1.1 城市定位
+*   [Part 1：宏观政策与分析](#宏观政策)
+    *   [1.1 城市定位](#城市定位)
+    *   [1.2 人口目标](#人口目标)
+    *   [1.3 发展规划](#发展规划)
+    *   [1.4 土拍分析](#土拍分析)
+    *   [1.5 住宅用地规划](#住宅用地规划)
+    *   [1.6 轨道交通现状与规划](#轨道交通现状与规划)
+    *   [1.7 高架&城市快速路现状与规划](#城市快速路)
+    *   [1.8 人才引进落户政策](#人才引进落户政策)
+    *   [1.9 房产报告](#房产报告)
+*   [Part 2: 选房](#选房)
+
+
+
+# Part 1: <a name="宏观政策">宏观政策与分析</a>
+## 1.1 <a name="城市定位">城市定位</a>
 [划重点！“上海2035”城市规划全文公开，卓越的上海什么样？--- 解放日报公众号2018年1月4日文](https://mp.weixin.qq.com/s/iuQcfysQTWfltX0WzUYsxw) 
 
 ["上海2035规划"发布!城市定位发生新变化 |从华尔街到陆家嘴 --- 第一财经咨询公众号2018年1月5日文](https://mp.weixin.qq.com/s/5uCv7VOUHnbXf93CTNXtZg)
@@ -29,12 +43,12 @@
 “卓越的全球城市，令人向往的创新之城、人文之城、生态之城，具有世界影响力的社会主义现代化国际大都市”，通过“创新、人文、生态”三个分目标，深化了“卓越的全球城市”的内涵，充分体现创新对未来城市竞争力的核心引领，突显对绿色可持续发展的核心支撑，彰显以人为本理念和城市特色魅力。
 
 
-## 1.2 人口目标
+## 1.2 <a name="人口目标">人口目标</a>
 “上海2035”要求，缓解人口快速增长与资源环境紧约束之间的矛盾，严格控制常住人口规模，至2035年常住人口控制在2500万人左右。而在2015年，上海常住人口规模为2415万人。
 
-![alt](https://mmbiz.qpic.cn/mmbiz_jpg/QvZej5zN2tvy6Ezok0hGgAib7MShGB8uTzxial0ZBReafeJ11KQQYg5GBogzU8wnxQnlg5zZFEvZnnFiarAuRrhug/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/QvZej5zN2tvy6Ezok0hGgAib7MShGB8uTzxial0ZBReafeJ11KQQYg5GBogzU8wnxQnlg5zZFEvZnnFiarAuRrhug/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-## 1.3 发展规划
+## 1.3 <a name="发展规划">发展规划</a>
 在区域层面，落实“一带一路”、长江经济带建设等国家战略，发挥中心城市作用，推进长江三角洲城市群区域交通一体化，积极落实推动近沪地区（90分钟通勤范围），推动上海与苏州、无锡、南通、宁波、嘉兴、舟山等周边城市协同发展，构建上海大都市圈，打造具有全球影响力的世界级城市群。创新合作模式，构建区域系统发展新机制，实施设施共享、交通互联、文化共融、生态共保、区域共治。
 
 在市域层面，构建“一主、两轴、四翼；多廊、多核、多圈”的空间结构，控制中心城周边区域蔓延，发挥新城、新市镇县人口和带动地区发展的作用。
@@ -51,18 +65,18 @@
 
 [上海市城市总体规划（2017-2035）-高清图集](https://zhuanlan.zhihu.com/p/32632481)
 
-## 1.4 土拍分析
+## 1.4 <a name="土拍分析">土拍分析</a>
 [上海土拍，按不住了 --- 真有好房2020年6月21日文](https://mp.weixin.qq.com/s/4LJ7lOb86NCvYfxWyk8qbg) 
 
 [1387亿！上海土拍市场沸了 --- 魔都房房房2020年6月14日文](https://mp.weixin.qq.com/s/rVYC3T-M6LFtncSoFAd16A)
 
 
-## 1.5 住宅用地供应中期规划总表
+## 1.5 <a name="住宅用地规划">住宅用地规划</a>
 [你听说过上海5大新城吗?买房子,买的是规划! ](https://www.sohu.com/a/326164744_124720) 
 
 [重磅！深度解读上海“一江一河”沿岸地区建设规划(2018-2035）](https://mp.weixin.qq.com/s/YN8U7T-47vyCrdSZkq-Bwg)
 
-## 1.6 轨道交通现状与规划
+## 1.6 <a name="轨道交通现状与规划">轨道交通现状与规划</a>
 ### 1.6.1 上海轨道交通2020年现状
 ![alt](https://bkimg.cdn.bcebos.com/pic/54fbb2fb43166d224f4a0d1ab46a1ef79052992274a1?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5)
 
@@ -75,12 +89,12 @@
 
 图片来源知乎：[上海9条线轨交规划利好小区出炉！看看有你关注的吗？](https://zhuanlan.zhihu.com/p/54367613?utm_source=wechat_session&utm_medium=social&utm_oi=703241912194174976)
 
-## 1.7 高架&城市快速路现状与规划
+## 1.7 <a name="城市快速路">高架&城市快速路现状与规划</a>
 ![img](https://pic2.zhimg.com/80/v2-8ec225d4270462d783fbae4062c1e0b9_720w.jpg)
 
 图片来源知乎: [上海市城市总体规划（2017-2035）-高清图集](https://zhuanlan.zhihu.com/p/32632481)
 
-## 1.8 人才引进落户政策
+## 1.8 <a name="人才引进落户政策">人才引进落户政策</a>
 [最新版！2020上海落户大全来了！](https://mp.weixin.qq.com/s/yi-lAnHrEi1ApkzgPNnsIg) 
 
 [上海正在着眼未来的发展！2020上海落户新政！放宽落户条件！](https://mp.weixin.qq.com/s/-ulgCR22Z5-sBpk8gG7VIg)
@@ -99,7 +113,7 @@
 4. 创业，投资，企业人才落户：条件比较多，如果创投行业做的不错的可以看一下，需要注意创业企业的资质和投资机构的资质。
 5. 居转户：7年，5年和3年的不同，根据社保交纳基数是上海平均工资几倍，还有很多别的条件，最好和本区落户的老师了解清楚材料。
 
-## 1.9 房产报告
+## 1.9 <a name="房产报告">房产报告</a>
 [ 2019中国房地产市场年度展望](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/attachments/files/2019%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E5%B9%B4%E5%BA%A6%E5%B1%95%E6%9C%9B.pdf)
 
 [2019中国代表城市房地产市场预测](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/attachments/files/2019%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9F%8E%E5%B8%82%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E9%A2%84%E6%B5%8B.pdf)

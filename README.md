@@ -18,7 +18,34 @@
     *   [1.8 人才引进落户政策](#人才引进落户政策)
     *   [1.9 房产报告](#房产报告)
 *   [Part 2: 选房](#选房)
-
+    *   [2.1 了解自己的需求](#了解自己的需求)
+    *   [2.2 房产信息渠道](#房产信息渠道)
+    *   [2.3 Location! Location! Location! 位置地段](#位置地段)
+        *    [2.3.1 上海市行政区划](#上海市行政区划)
+        *    [2.3.2 各区板块](#各区板块与天花板价)
+    *   [2.4 全上海热门新房楼盘分布2020版](#全上海热门新房楼盘分布2020版)
+    *   [2.5 上海市二手房2020](#上海市二手房2020)
+        *    [2.5.1 2020前十月成交趋势](#2020前十月成交趋势)
+        *    [2.5.2 上海各区10月份二手房热门小区成交大全](#上海各区10月份二手房热门小区成交大全)
+    *   [2.6 学区房](#学区房)
+    *   [2.7 小区考虑](#小区考虑)
+        *   [2.7.1 容积率](#容积率)
+        *   [2.7.2 绿地率](#绿地率)
+        *   [2.7.3 开发商（主要开发商及其特点)](#开发商)
+        *   [2.7.4 物业管理](#物业管理)
+        *   [2.7.5 周边配套](#周边配套)
+    *   [2.8 房子本身](#房子本身)
+        *   [2.8.1 楼层](#楼层)
+        *   [2.8.2 东边套，西边套，中间套](#边套中间套)
+        *   [2.8.3 公摊面积](#公摊面积)
+        *   [2.8.4 户型](#户型考虑)
+*   [Part 3: 买房](#买房)
+    *   [3.1 中介经纪](#中介经纪)
+    *   [3.2 购房资格](#购房资格)
+    *   [3.3 贷款](#贷款)
+    *   [3.4 交易流程与税费](#交易流程)
+    *   [3.5 其他费用](#其他费用)
+    *   [3.6 注意事项](#注意事项)
 
 
 # Part 1: <a name="宏观政策">宏观政策与分析</a>
@@ -118,8 +145,8 @@
 
 [2019中国代表城市房地产市场预测](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/attachments/files/2019%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9F%8E%E5%B8%82%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E9%A2%84%E6%B5%8B.pdf)
 
-# Part 2: 选房
-## 2.1 了解自己的需求
+# Part 2: <a name="选房">选房</a>
+## 2.1 <a name="了解自己的需求">了解自己的需求</a>
 了解自己的需求，比了解宏观形势和市场行情有事可能会更重要。当下2020年价格涨的比较多的板块，主要是由于上海入学摇号政策带来的学区房的一部分大涨，还有像徐汇滨江板块这样的大的发展规划带动的区域。
 1. 刚需or改善
 2. 居住需求or投资保值需求：居住需求的话就会对于地段，小区，户型等整体居住条件的考虑和权衡；如果是投资需求的话，可能看最近几年来年华的投资回报，我基本算了一下，在过去的15年间，从这个时间尺度看，差不多投资回报在年华7%-10%左右。
@@ -127,7 +154,7 @@
 4. 新房or二手房
 5. 老房子or次新房
 
-## 2.2 房产信息渠道
+## 2.2 <a name="房产信息渠道">房产信息渠道</a>
 1. [贝壳](https://sh.ke.com/) 大家看到链家在一线城市店铺比较多，可能会觉得贝壳链家的房源可能占市场房源的一半或者更多，其实贝壳链家房源数可能只占到少一部分，并且不同城市有当地区域做的比较好的中介品牌，没有上贝壳，可能在安居客或者幸福里中，甚至只在中介自己的系统中，所以最好多看一些.贝壳比较好的地方是真房源和价格真实，这部分确实是其他几个平台不具有的。
 2. [安居客](https://shanghai.anjuke.com/) 
 3. [幸福里APP|字节跳动旗下](https://xflapp.com/)
@@ -139,12 +166,12 @@
     3. 魔都房房房：微信号modufff，楼市谈经论道 买房大家来说
 
 
-## 2.3 Location! Location! Location! 位置地段
-### 2.3.1 上海市行政区划
+## 2.3 <a name="位置地段">Location! Location! Location! 位置地段</a>
+### 2.3.1 <a name="上海市行政区划">上海市行政区划</a>
 ![alt](https://bkimg.cdn.bcebos.com/pic/8b82b9014a90f603e93fc88b3312b31bb151ed6b?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5)
 图片来源百度百科 [https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92/7426389?fr=aladdin](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92/7426389?fr=aladdin)
 
-### 2.3.2 房产板块划分图 
+### 2.3.2 <a name="各区板块">房产板块与天花板价</a>
 ##### 黄埔区各板块天花板价
 ![alt](https://mmbiz.qpic.cn/mmbiz_png/wbiabxpiar7Ka2YuIoj6PWlXpquoaibblCZicMWL9kwdAUcDCIy3UPlREX9F0c8ncEu239nbWcNM7jTbUeicOxYEu5g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -189,24 +216,24 @@
 
 图片来源自2020年5月31日公众号魔都财观，作者山丘老师的 [上海购房鄙视链地图来了，你家在鄙视链顶端吗？](https://mp.weixin.qq.com/s/GdPuXi70N6vGNJS-4tzWQQ)。
 
-## 2.4 全上海热门新房楼盘分布2020版
+## 2.4 <a name="全上海热门新房楼盘分布2020版">全上海热门新房楼盘分布2020版</a>
 ![alt](https://mmbiz.qpic.cn/mmbiz_png/sibm3nPoVZ6k5G4AwcVq5L6ZJpLsbbgKATM18iaGuStw2DfIZOAicdic6BQXOXia3umAVGBODwqnuG46gKEKIWaknibA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 图片来源： 公众号上海国拍，作者小胖看房 [【新房】上海最热新楼盘都在这里！观望还是出击？](https://mp.weixin.qq.com/s?src=11&timestamp=1605094004&ver=2700&signature=7FQeY3780Ow7Imk02RRYVYl40LOGGhqFtV0gPTMIlkQeGVJN9LHT*7XpqGL9wMyRBctaR8jggi6uom*JN5C2rMpUc9iv1xZCfYgnVAL9cnXI4*jVXnlshBfzv7sp2a57&new=1)
 
-## 2.5 上海市二手房2020
-### 2.5.1 2020前十月成交趋势
+## 2.5 <a name="上海市二手房2020">上海市二手房2020</a>
+### 2.5.1 <a name="2020前十月成交趋势">2020前十月成交趋势</a>
 ![img](https://mmbiz.qpic.cn/mmbiz_png/0ib1FwT4iaAc5yrlaMXEN3Nt0qkItibcibiccIucribE4cmJtH22VIVLIaZfPuxh3hOWcTaIibicm9xWr2DemicwUYLpTsw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 ![img](https://mmbiz.qpic.cn/mmbiz_png/0ib1FwT4iaAc5yrlaMXEN3Nt0qkItibcibiccR66Wd2zpOpvW2nUHer9fYPhvk4IFnlOL3O9LdrE7gEjibCiaNib5kKkHA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 图片来源于： [2020年前十月上海市二手房交易情况汇总](https://mp.weixin.qq.com/s/HSFnBogHMkuYq3gGrO3Mzw)
 
-### 2.5.2 上海各区10月份二手房热门小区成交大全
+### 2.5.2 <a name="上海各区10月份二手房热门小区成交大全">上海各区10月份二手房热门小区成交大全</a>
 ![img](https://mmbiz.qpic.cn/mmbiz_jpg/icqDFk8NyyAdyuODTfvsyNiazzYaqicYyleicNKLOBiaG6SV1w4MqbIbWPCCP39V0fFY1Hl5lAgu4jQk2IicgTZQfVUw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 图片来源以及看更多区热门小区：[2020年上海10月二手房热门小区成交数据分享！](https://mp.weixin.qq.com/s/QlFv9zxaB1omXdDEebrG4g)
 
-## 2.6 学区
+## 2.6 <a name="学区房">学区房</a>
 2020年上海幼升小采取摇号政策，公民同招情况下，民办不能自己筛选了，只能靠运气摇号，带来了好的公立学校热大的热度，对学区房有利好的影响。
 [民办摇号政策解读：2020上海幼升小](https://mp.weixin.qq.com/s/c4c8RPaDHbKwJevrmjP5mw)
 
@@ -219,34 +246,35 @@
 [上海最新132个学区和学区房价+户籍+16区招生范围表！](https://mp.weixin.qq.com/s/CGjoZJwVDLMhUwT6MxRS2w)
 这篇虽然有点旧，是2017年的，不过基本的学校对口小区变化不大，主要是学区房价格变化比较大啦。
 
-## 2.7 小区考虑
-### 2.7.1 [容积率](https://baike.baidu.com/item/%E5%AE%B9%E7%A7%AF%E7%8E%87/1397682?fr=aladdin)
+## 2.7 <a name="小区考虑">小区考虑</a>
+### 2.7.1 <a name="容积率">容积率</a>
+[百度百科：容积率](https://baike.baidu.com/item/%E5%AE%B9%E7%A7%AF%E7%8E%87/1397682?fr=aladdin)
 
-### 2.7.2 绿地率
+### 2.7.2 <a name="绿地率">绿地率</a>
 [要买房，先教你如何选房](https://zhuanlan.zhihu.com/p/87350208)
 
-### 2.7.3 开发商 (主要开放商及其特点)
+### 2.7.3 <a name="开发商">开发商 (主要开放商及其特点)</a>
 1. 朗诗： 我之前住的恒温恒湿科技住宅，房子住着很舒服，物业管理的很好
 2. 万科： 房地产龙头企业，建筑质量高，精装交付标准比较好
 3. 仁恒： 被吹爆的做的比较细的开发商，虽然我没住过他们的房子，当时听说细节做的很棒。[仁恒的好，只有居住过的人才知道 | 李坤军](https://mp.weixin.qq.com/s/ocg62IjM2jZayxnU_Vqr-A)
 4. ...
 
-### 2.7.4 物业管理
+### 2.7.4 <a name="物业管理">物业管理</a>
 1. 整体物业管理水平
 2. 物业费
 3. 车库和车辆管理，是否人车分离
 4. 公共设施维修
 5. 绿化维护与环卫水平
 
-### 2.7.5 周边配套
+### 2.7.5 <a name="周边配套">周边配套</a>
 1. 商业综合体Mall
 2. 学校
 3. 医院
 4. 娱乐体育等公共场所和设施
 5. 地铁和公交
 
-## 2.8 房子本身
-### 2.8.1 楼层
+## 2.8 <a name="房子本身">房子本身</a>
+### 2.8.1 <a name="楼层">楼层</a>
 [百度百科：楼层净高](https://baike.baidu.com/item/%E6%A5%BC%E5%B1%82%E5%87%80%E9%AB%98/10657207?fr=aladdin)
 
 [如何选最合适的楼层，采光好一定是好楼层？](https://zhuanlan.zhihu.com/p/62637747)
@@ -254,22 +282,23 @@
 2. 1楼蚊虫比较多，梅雨季节比较潮
 3. 一些旧小区没有电梯的，如果家里有老人就要权衡是高一点采光好，还是走起来方便了
 
-### 2.8.2 东边套，西边套，中间套
+### 2.8.2 <a name="边套中间套">东边套，西边套，中间套</a>
 ![img](https://pic2.zhimg.com/80/v2-e566bf1b0fe5c65cbf37cd27438fb811_720w.jpg)
 
 [选房是边套好，还是中间套好？](https://zhuanlan.zhihu.com/p/55104445)
 
-### 2.8.3 公摊面积
+### 2.8.3 <a name="公摊面积">公摊面积</a>
 [什么是公摊面积？国家标准是什么？公摊多少才合理？](https://zhuanlan.zhihu.com/p/100070736)
-# Part 3: 买房
-## 3.1 中介经纪
+
+# Part 3: <a name="买房">买房</a>
+## 3.1 <a name="中介经纪">中介经纪</a>
 1. 链家：专业度高，服务不错，不过现在店多人多，且别的中介服务水平也上来了，所以没有十年前那种巨大的服务差距了，而且服务佣金比较高，正常是3%，如果总价比较高，比如高于1000万，一般可以谈到2以内。
 2. 太平洋房产
 3. 中原房产
 4. 信义房产：台湾上市的经纪公司，规模不大，服务的态度和专业度不错，我自己租房和买房都是通过他们，佣金正常是2%，如果总价高也可以谈。
 5. 其他
 
-## 3.2 购房资格
+## 3.2 <a name="购房资格">购房资格</a>
 **单身人士**
 ![alt](https://mmbiz.qpic.cn/mmbiz_jpg/b9HwbfQGPZfUfAFiaow2HQMA6PWh1hbyzMGBmfgQPzicdKz8b1A103T8BJibMJNlr0Aa1S0M7zjllSfxmTeWc9nGA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -297,26 +326,26 @@ Q&A：
 
 图片来源：[2020上海限购政策图解](https://mp.weixin.qq.com/s?src=11&timestamp=1605244356&ver=2703&signature=kAqeUVYBZCk3ruHMdPmDFfkmw3wixK3*7fR6KvFsbK4UBt62rWAcZ0DoQZdZtKjg07wXTJSuu694*pYhYlwTvRvQeNuCWdD*gdJ7xb5l0zZPi5G*QAyajkdydewEs6QA&new=1)
 
-## 3.3 贷款
+## 3.3 <a name="贷款">贷款</a>
 [房贷计算器 (2020)](http://fangd.sinaapp.com/)
 
 ![img](http://img-other.jiwu.com/news/2020/03/08/163231353107.jpg/newsx)
 图片来源：[吉屋网](http://ganzhou.jiwu.com/news/3941214.html)
 
-## 3.4 交易流程与税费
+## 3.4 <a name="交易流程与税费">交易流程与税费</a>
 ![img](https://mmbiz.qpic.cn/mmbiz_jpg/mOFMMKI67Trp10ZDt2JB6ky9zqtmw79ElibgeBLP4OqxRkkpeaibBZ7woOgI40kRVicQsrxmxMc1ThvL9xAdKia7sA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 图片来源： [2020年 上海最全限购、贷款、税费政策、新版二手房交易流程、新房购买须知、房地产交易中心！](https://mp.weixin.qq.com/s/kt_BSUwzUwgT-qV5PmzerA)
 
 关于税费和流程，最好请经纪帮你算清楚，解释清楚，如果找的不是这几家大的中介，一定要提前了解清楚设计的所有税费和其他费用，很多不良中介经常是签了字之后又多出来这个费用那个费用来套路你。
 
-## 3.5 其他费用
+## 3.5 <a name="其他费用">其他费用</a>
 因为目前很多上家是到手价，所以一定需要和中介经纪确认清楚涉及的所有费用，避免出现签约后面又出来各种奇奇怪怪的费用，我在购房中了解到的几个其他费用：
 1. 卖家的一些材料公证的费用
 2. 交房时结算水电，煤气，网络，有线电视，物业费等，所以最好尾款压5-10万，交房当天结算
 3. 上家房子中装修和家具的部分，签订合同时约定是否搬走还是留给下家，费用如何计算
 
 
-## 3.6 注意事项
+## 3.6 <a name="注意事项">注意事项</a>
 1. 房屋产权是否清晰，是否有其他抵押等
 2. 房屋如果带租约，租客有优先购买权，签定购房合同前确认看到租客放弃优先购买权的书面证明和租约修改的书面合同
 3. 购房资格一定要查清楚

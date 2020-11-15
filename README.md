@@ -1,4 +1,4 @@
-2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，本着开源的精神，希望对大家也能有所帮助。启发来自这个兄弟17年做的杭州购房分享 [杭州购房分享](https://github.com/houshanren/hangzhou_house_knowledge)
+2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，本着开源的精神，希望对大家也能有所帮助。启发来自这位同学2017年做的 [杭州购房分享](https://github.com/houshanren/hangzhou_house_knowledge)，本文也发布在Github[上海购房知识汇总](https://github.com/ayuer/shanghai_house_knowledge)，欢迎有兴趣的同学Star和发PR来共同维护。
 
 ```
 -- 图片来自网络，侵权删
@@ -42,7 +42,12 @@
 *   [Part 3: 买房](#买房)
     *   [3.1 中介经纪](#中介经纪)
     *   [3.2 购房资格](#购房资格)
+        *   [3.2.1 查询自己社保缴纳情况](#查询自己社保缴纳情况)
     *   [3.3 贷款](#贷款)
+        *   [3.3.1 最近20年房贷利率走势](#房贷利率走势)
+        *   [3.3.2 公积金贷款](#公积金贷款)
+        *   [3.3.3 贷款计算器](#贷款计算器)
+        *   [3.3.4 个人征信查询](#个人征信查询)
     *   [3.4 交易流程与税费](#交易流程)
     *   [3.5 其他费用](#其他费用)
     *   [3.6 注意事项](#注意事项)
@@ -235,7 +240,8 @@
 图片来源以及看更多区热门小区：[2020年上海10月二手房热门小区成交数据分享！](https://mp.weixin.qq.com/s/QlFv9zxaB1omXdDEebrG4g)
 
 ## 2.6 <a name="学区房">学区房</a>
-2020年上海幼升小采取摇号政策，公民同招情况下，民办不能自己筛选了，只能靠运气摇号，带来了好的公立学校热大的热度，对学区房有利好的影响。
+2020年上海幼升小采取摇号政策，公民同招情况下，民办不能自己筛选了，只能靠运气摇号，带来了好的公立学校热大的热度，对学区房有利好的影响。很多热门学区需要“五年一户”，在购房时候一定要提前关注。
+
 [民办摇号政策解读：2020上海幼升小](https://mp.weixin.qq.com/s/c4c8RPaDHbKwJevrmjP5mw)
 
 [大变化！2020上海幼升小招生政策重点解读！公民办只能二选一！顺序号靠前摇中概率高.....](https://mp.weixin.qq.com/s/67oH204l68-TAFwFdviSKA)
@@ -327,12 +333,27 @@ Q&A：
 
 图片来源：[2020上海限购政策图解](https://mp.weixin.qq.com/s?src=11&timestamp=1605244356&ver=2703&signature=kAqeUVYBZCk3ruHMdPmDFfkmw3wixK3*7fR6KvFsbK4UBt62rWAcZ0DoQZdZtKjg07wXTJSuu694*pYhYlwTvRvQeNuCWdD*gdJ7xb5l0zZPi5G*QAyajkdydewEs6QA&new=1)
 
-## 3.3 <a name="贷款">贷款</a>
-[房贷计算器 (2020)](http://fangd.sinaapp.com/)
+#### 3.2.1 <a name="查询自己社保缴纳情况">查询自己社保缴纳情况</a>
+可以下载[上海人社App](http://app.rsj.sh.gov.cn/)，在业务经办里面查询到社保缴纳情况，非沪籍需要最近63个月中有60个月的社保记录，也可以去社保网店在机器上查询。
 
+## 3.3 <a name="贷款">贷款</a>
+### 3.3.1 <a name="房贷利率走势">最近20年房贷利率走势</a>
 ![img](http://img-other.jiwu.com/news/2020/03/08/163231353107.jpg/newsx)
 
 图片来源：[吉屋网](http://ganzhou.jiwu.com/news/3941214.html)
+
+### 3.3.2 <a name="公积金贷款">公积金贷款</a>
+[@魔都打工人，上海公积金贷款使用指南来啦！](https://mp.weixin.qq.com/s/iQi7Gum8sSIgVtUOUj6T5g)
+
+### 3.3.3 <a name="房贷计算器">房贷计算器</a>
+[房贷计算器 (2020)](http://fangd.sinaapp.com/)
+
+[别纠结！等额本息VS等额本金，终于说透彻了](https://zhuanlan.zhihu.com/p/37403083)
+
+#### 3.3.4 <a name="个人征信查询">个人征信查询</a>
+信贷公司在办理贷款时候都会查询，如果需要提前确认自己是否征信有问题，可以自己去银行的网点，在有人行查征信的机器上查询，自己查询每年可以免费查4次，也不会对后面贷款带来特别大不好影响，尽量避免让小贷机构查，会影响后面银行批贷。
+
+还有一种可以自己去[人民银行征信中心网站](https://ipcrs.pbccrc.org.cn/)上查询一个简版的，这样影响最小。
 
 ## 3.4 <a name="交易流程与税费">交易流程与税费</a>
 ![img](https://mmbiz.qpic.cn/mmbiz_jpg/mOFMMKI67Trp10ZDt2JB6ky9zqtmw79ElibgeBLP4OqxRkkpeaibBZ7woOgI40kRVicQsrxmxMc1ThvL9xAdKia7sA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)

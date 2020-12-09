@@ -136,6 +136,9 @@
 
 [2020上海居转户政策及解读！想落户的快看！](https://mp.weixin.qq.com/s/WMavhPA5rGZZI3glv98TJA)
 
+最新的人才引进政策，也是前段时间比较热炒的杨超越落户应用的政策，包括高层次人才，重点机构急需紧缺人才，高技能人才，市场化创新创业人才，和专门人才和其他特殊人才。
+[上海落户新政策来啦，18类人才直接落户！有效期5年，12月1日起实施！](https://mp.weixin.qq.com/s/nvxlJ_1wlCSbPb7zCHdWuw)
+
 [人社局：《上海市居住证》积分模拟打分计算器](http://jzzjf.rsj.sh.gov.cn/jzzjf/pingfen/index.jsp)
 
 [上海市人力资源和社会保障局官网](http://rsj.sh.gov.cn/)
